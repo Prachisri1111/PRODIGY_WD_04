@@ -1,5 +1,5 @@
 # Personal-portfolio-website
-Tic-Tac-Toe Web application
+Personal Protfolio
 
 
 Build a personal portfolio website that showcases your skills, 
